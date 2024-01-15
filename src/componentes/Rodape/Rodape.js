@@ -4,6 +4,7 @@ function Rodape(){
     return(
         <div className='Rodape'>
         <div className='creditos'>
+            <h1>By Flavia Nunes.</h1>
         </div>
         <div className='referencias'>
         <h4>Referências de Imagem:</h4>
